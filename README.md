@@ -6,9 +6,9 @@
 
 ## 🚀 Live Demo
 
-- 🌐 **Streamlit App**: https://hackathon2026-azam-khan.streamlit.app/  
-- 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
-- 🎥 **Demo Video**: https://github.com/user-attachments/assets/12f07612-992c-45d4-a358-d15fedf95461
+### - 🌐 **Streamlit App**: https://hackathon2026-azam-khan.streamlit.app/  
+### - 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
+### - 🎥 **Demo Video**: https://github.com/user-attachments/assets/12f07612-992c-45d4-a358-d15fedf95461
 
 ---
 
@@ -108,9 +108,9 @@ Failures
 Decisions
 Final action
 
-### 👉 See: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/audit_log.json
+#### 👉 See: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/audit_log.json
 
-## ⚠️ Failure Handling: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/failure_modes.md
+#### ⚠️ Failure Handling: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/failure_modes.md
 
 ### Handled scenarios include:
 
