@@ -8,7 +8,8 @@
 
 - 🌐 **Streamlit App**: https://hackathon2026-azam-khan.streamlit.app/  
 - 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
-- 🎥 **Demo Video**:   
+- 🎥 **Demo Video**:  
+https://github.com/user-attachments/assets/12f07612-992c-45d4-a358-d15fedf95461
 
 ---
 
