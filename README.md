@@ -110,7 +110,7 @@ Final action
 
 ### 👉 See: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/audit_log.json
 
-## ⚠️ Failure Handling
+## ⚠️ Failure Handling: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/failure_modes.md
 
 ### Handled scenarios include:
 
