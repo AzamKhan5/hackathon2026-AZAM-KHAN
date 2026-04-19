@@ -6,9 +6,9 @@
 
 ## 🚀 Live Demo
 
-- 🌐 **Streamlit App**: https://your-streamlit-app-link.com  
-- 💻 **GitHub Repo**: https://github.com/your-username/shopwave-agent  
-- 🎥 **Demo Video**: https://your-video-link.com  
+- 🌐 **Streamlit App**: https://hackathon2026-azam-khan.streamlit.app/  
+- 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
+- 🎥 **Demo Video**:   
 
 ---
 
