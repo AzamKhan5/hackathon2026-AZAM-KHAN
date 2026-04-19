@@ -8,8 +8,7 @@
 
 - 🌐 **Streamlit App**: https://hackathon2026-azam-khan.streamlit.app/  
 - 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
-- 🎥 **Demo Video**:  
-https://github.com/user-attachments/assets/12f07612-992c-45d4-a358-d15fedf95461
+- 🎥 **Demo Video**: https://github.com/user-attachments/assets/12f07612-992c-45d4-a358-d15fedf95461
 
 ---
 
@@ -71,31 +70,31 @@ This project builds an **Autonomous Support Resolution Agent** that:
 
 ## 🧰 Tech Stack
 
-| Layer | Technology |
-|------|-----------|
-| Language | Python |
-| LLM | Gemini API |
-| UI | Streamlit |
-| Concurrency | AsyncIO |
-| Data | JSON |
-| Logic | Rule + LLM Hybrid |
++ | Layer | Technology |
++ |------|-----------|
++ | Language | Python |
++ | LLM | Gemini API |
++ | UI | Streamlit |
++ | Concurrency | AsyncIO |
++ | Data | JSON |
++ | Logic | Rule + LLM Hybrid |
 
 ---
 
 ## 📂 Project Structure
 shopwave-agent/
-├── app.py
-├── agent.py
-├── tools.py
-├── data_loader.py
-├── tickets.json
-├── orders.json
-├── customers.json
-├── products.json
-├── knowledge-base.md
-├── architecture.png
-├── audit_log.json
-├── failure_modes.md
++ ├── app.py
++ ├── agent.py  
++ ├── tools.py -
++ ├── data_loader.py
++ ├── tickets.json
++ ├── orders.json
++ ├── customers.json
++ ├── products.json
++ ├── knowledge-base.md
++ ├── architecture.png
++ ├── audit_log.json
++ ├── failure_modes.md
 
 
 ---
