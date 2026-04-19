@@ -108,7 +108,7 @@ Failures
 Decisions
 Final action
 
-### 👉 See: audit_log.json
+### 👉 See: https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN/blob/main/audit_log.json
 
 ## ⚠️ Failure Handling
 
